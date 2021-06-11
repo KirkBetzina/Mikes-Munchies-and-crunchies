@@ -1,23 +1,23 @@
 # Project Overview
 
 ## Project Links
-- [UX/UI COMP](figma.com)
+- [UX/UI COMP](https://www.figma.com/file/VpndDHiNv65YIYEUZQ4wD7/Wireframing-(Copy)?node-id=11221%3A441)
 
 - [API URL](googlesheets)
 
 - [Frontend github repo link](https://github.com/freakiestkirk/Mikes-Munchies-and-crunchies.git)
-- [Frontend deployment link]()
+- [Frontend deployment link](https://vigilant-northcutt-44eeb9.netlify.app)
 
-- [ Backend github repo link]()
-- [ Backend deployment link]()
+- [ Backend github repo link](https://github.com/freakiestkirk/mikes-crunchies-backend.git)
+- [ Backend deployment link](https://git.heroku.com/mikes-crunchies-backend.git)
 
 ## Project Description
 
-Developing a website with QR for a local restaurant in Webster, Ma. 
+Developing a website with QR code for a local restaurant in Webster, Ma. 
 
 ## API
 
-From the returned data we will be able to see the some of the data depending on the endpoints. Such as :
+
 
 
 ```
@@ -74,6 +74,7 @@ Time frames are also key in the development cycle.  You have limited time to cod
 
 ## Additional Libraries
 Reactstrap/ Bootstrap 
+QRCODE[pil]
 As of now. may grow or change at the flow of the project.
 
 ## Code Snippet
